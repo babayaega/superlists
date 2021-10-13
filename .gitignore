@@ -4,3 +4,5 @@ virtualenv
 __pycache__
 *.pyc
 /static
+db.sqlite3
+geckdriver.log
